@@ -1,0 +1,19 @@
+{
+  "name": "nina",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open":"cypress open"
+  },
+  "keywords": [
+    "test",
+    "cypress"
+  ],
+  "author": "Nikolina",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.0.0"
+  }
+}
